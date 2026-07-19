@@ -2,7 +2,7 @@
 
 A single-page portfolio site showcasing my DevOps engineering experience, skills, and projects.
 
-🔗 **Live site:** _add your deployed URL here once hosted_
+🔗 **Live site:** [portfolio-one-indol-29.vercel.app](https://portfolio-one-indol-29.vercel.app/)
 
 ## About
 
