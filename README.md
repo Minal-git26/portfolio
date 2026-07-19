@@ -8,10 +8,7 @@ A single-page portfolio site showcasing my DevOps engineering experience, skills
 
 Built as a static site with a CI/CD-pipeline theme throughout — the hero, skills, and project sections are all styled around the build → scan → deploy workflow I use day to day.
 
-## Tech Stack
 
-- HTML5, CSS3, vanilla JavaScript
-- No build tools or dependencies — single `index.html` file
 
 ## Sections
 
