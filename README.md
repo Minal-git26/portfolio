@@ -32,13 +32,7 @@ cd <repo-name>
 open index.html   # or double-click the file
 ```
 
-## Deployment
 
-This site can be deployed for free with any static host:
-
-- **GitHub Pages** — Settings → Pages → deploy from `main` branch
-- **Netlify** — drag and drop the folder, or connect the repo
-- **Vercel** — import the repo, no build command needed
 
 ## Contact
 
